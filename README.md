@@ -86,6 +86,6 @@ This project is licensed under the MIT License.
 
 ## 🌐 Live Demo
 
-[Planning Poker on Vercel](https://)
+[Planning Poker on Vercel](https://planning-poker-one-smoky.vercel.app/)
 
 Made with ❤️ by Pablo Clemente
